@@ -6,11 +6,11 @@ from pydub import AudioSegment
 import requests
 
 # بارگذاری متغیرهای محیطی از Environment Variables
-TELEGRAM_TOKEN = os.getenv("7972095626:AAGT1lbF_p1SseA5RfjXjKoasZdmk5k3cyA")
+TELEGRAM_TOKEN = os.getenv("7747293231:AAFX37lfsQ_sZDx8_v71I1r-Llf4WsawCoQ")
 AUDD_API_TOKEN = os.getenv("31ab6158d8c1dce8aaca889d53b27f1e")
 
 # دیباگ: چاپ توکن‌ها
-print("7972095626:AAGT1lbF_p1SseA5RfjXjKoasZdmk5k3cyA", TELEGRAM_TOKEN)
+print("7747293231:AAFX37lfsQ_sZDx8_v71I1r-Llf4WsawCoQ", TELEGRAM_TOKEN)
 print("31ab6158d8c1dce8aaca889d53b27f1e", AUDD_API_TOKEN)
 
 # بررسی توکن تلگرام
