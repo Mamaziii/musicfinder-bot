@@ -1,0 +1,4 @@
+python-telegram-bot==21.4
+instaloader==4.13.1
+pydub==0.25.1
+requests==2.32.3
